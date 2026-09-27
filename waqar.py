@@ -1,1 +1,1 @@
-print('HCCDA-AI Class Room')
+print('HCCDA-AI Class Room ok')
